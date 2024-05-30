@@ -2,6 +2,8 @@
 
 This is a web project called Bucks2Bar.
 
+This project was fully generated with Github Copilot.
+
 ## Project Structure
 
 ```
